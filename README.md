@@ -1,3 +1,6 @@
+<div>
+    <img src="https://github.com/DevHumbleChris/DevHumbleChris/raw/main/public/mario.gif" alt="mario" />
+</div>
 # 💫 About Me:
 🔭 I’m currently working on Multivendor Web3 Marketplace<br>🌱 I’m currently learning NestJS, Blockchain<br>👯 I’m looking to collaborate on Web3 Projects<br>💬 Ask me about MERN, NEXTJS, NoSQL, Laravel, NodeJS, FastApi<br>📫 How to reach me name1swaleed@gmail.com<br>📄 Know about my experiences https://linkedin.com/in/nameiswaleed
 
